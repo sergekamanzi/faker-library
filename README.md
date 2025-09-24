@@ -1,13 +1,13 @@
 # faker-library
 
-# 🏠 Household Energy Usage Dataset (Synthetic)
+# Household Energy Usage Dataset (Synthetic)
 
 This project generates a **synthetic dataset** of household energy usage in Rwanda using the [Faker](https://pypi.org/project/Faker/) library and Python.  
 The dataset is designed for **machine learning, data analysis, and energy consumption insights**.
 
 ---
 
-## 📑 Features
+##  Features
 
 - **11,000 household records** with structured data.  
 - Appliances commonly found in Rwandan homes (e.g., *Iron, Laptop, Blender, LED Lamp, TV*).  
@@ -22,7 +22,7 @@ The dataset is designed for **machine learning, data analysis, and energy consum
 
 ---
 
-## 📂 Dataset Columns
+## Dataset Columns
 
 | Column                | Description |
 |------------------------|-------------|
@@ -42,7 +42,7 @@ The dataset is designed for **machine learning, data analysis, and energy consum
 
 ---
 
-## 🚀 How to Generate
+##  How to Generate
 
 Clone the repo and run:
 
